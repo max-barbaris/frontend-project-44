@@ -1,4 +1,5 @@
 #!/usr/bin/env node
-import userName from '../src/cli';
+/* eslint-disable import/extensions */
+import userName from '../src/cli.js';
 
 userName();
