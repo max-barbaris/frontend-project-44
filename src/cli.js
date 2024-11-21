@@ -1,10 +1,10 @@
 /* eslint-disable no-console */
 import readlineSync from 'readline-sync';
 
-const userName = () => {
+const getUserName = () => {
   console.log('Welcone to the Brain Games!');
   const userName = readlineSync.question('May I have your name? ');
   console.log(`Hello, ${userName}!`);
 };
 
-export default userName;
+export default getUserName;
