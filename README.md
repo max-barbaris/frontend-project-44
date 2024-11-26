@@ -15,3 +15,7 @@ make install
 
 Even or odd number?
 [![asciicast](https://asciinema.org/a/G1lTjQSsbVb9kGN3S0qXKWdPs.svg)](https://asciinema.org/a/G1lTjQSsbVb9kGN3S0qXKWdPs)
+
+### brain-calc
+Calculate it!
+[![asciicast](https://asciinema.org/a/wfGTz5x4IQw1ACc5JnHDhaG1c.svg)](https://asciinema.org/a/wfGTz5x4IQw1ACc5JnHDhaG1c)
