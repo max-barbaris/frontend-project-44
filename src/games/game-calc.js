@@ -2,7 +2,7 @@
 /* eslint-disable no-console */
 import gameLogic from '../index.js';
 
-const getRandomNumber = (min, max) => Math.floor(Math.random() * (max - min) + min);
+const getRandomNumber = (min, max) => Math.floor(Math.random() * (max + 1 - min));
 const description = 'What is the result of the expression?';
 
 const calculation = (randomNumberOne, randomNumberTwo, operator) => {
