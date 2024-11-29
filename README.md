@@ -19,3 +19,7 @@ Even or odd number?
 ### brain-calc
 Calculate it!
 [![asciicast](https://asciinema.org/a/wfGTz5x4IQw1ACc5JnHDhaG1c.svg)](https://asciinema.org/a/wfGTz5x4IQw1ACc5JnHDhaG1c)
+
+### brain-gcd
+find the greatest divisor.
+[![asciicast](https://asciinema.org/a/vzuooUK0X7dlO9V1ww4JYLuY4.svg)](https://asciinema.org/a/vzuooUK0X7dlO9V1ww4JYLuY4)
