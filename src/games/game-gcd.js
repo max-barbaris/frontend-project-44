@@ -12,7 +12,7 @@ const getGameGCD = () => {
 
   for (let i = 2; i <= lowestNumber; i += 1) {
     if (randomNumberOne % i === 0 && randomNumberTwo % i === 0) {
-      maxDivisor = String.i;
+      maxDivisor = String(i);
     }
   }
 
