@@ -23,3 +23,7 @@ Calculate it!
 ### brain-gcd
 find the greatest divisor.
 [![asciicast](https://asciinema.org/a/vzuooUK0X7dlO9V1ww4JYLuY4.svg)](https://asciinema.org/a/vzuooUK0X7dlO9V1ww4JYLuY4)
+
+### brain-progression
+What number is missing in the progression?
+[![asciicast](https://asciinema.org/a/PZIyuahk3EnoPYQBC1mhZ9Xei.svg)](https://asciinema.org/a/PZIyuahk3EnoPYQBC1mhZ9Xei)
