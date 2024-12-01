@@ -2,6 +2,9 @@
 [![Actions Status](https://github.com/max-barbaris/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/max-barbaris/frontend-project-44/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/86a7c35a88fcd5d23a5b/maintainability)](https://codeclimate.com/github/max-barbaris/frontend-project-44/maintainability)
 
+## Game description
+Brain-games contains 5 games. The demo of the games is presented below. Enjoy the game!
+
 ## Setup
 
 ```bash
