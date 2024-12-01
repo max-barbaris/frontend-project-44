@@ -8,7 +8,7 @@ const getGameProgression = () => {
   const progression = [];
   progression[0] = getRandomNumber(1, 100);
   const progressionStep = getRandomNumber(1, 10);
-  const randomIndex = getRandomNumber(1, 10);
+  const randomIndex = getRandomNumber(0, 9);
 
   for (let i = 1; i < 10; i += 1) {
     progression[i] = progression[i - 1] + progressionStep;
