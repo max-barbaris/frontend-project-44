@@ -1,8 +1,8 @@
 /* eslint-disable import/extensions */
 /* eslint-disable no-console */
 import gameLogic from '../index.js';
+import getRandomNumber from '../random.js';
 
-const getRandomNumber = (min, max) => Math.floor(Math.random() * (max + 1 - min));
 const isEven = (number) => number % 2 === 0;
 const description = 'Answer "yes" if the number is even, otherwise answer "no".';
 

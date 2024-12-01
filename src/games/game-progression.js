@@ -1,7 +1,7 @@
 /* eslint-disable import/extensions */
 import gameLogic from '../index.js';
+import getRandomNumber from '../random.js';
 
-const getRandomNumber = (min, max) => Math.floor(Math.random() * (max + 1 - min));
 const description = 'What number is missing in the progression?';
 
 const getGameProgression = () => {
