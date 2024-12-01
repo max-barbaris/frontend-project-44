@@ -12,9 +12,8 @@ make install
 ## Game Demonstration
 
 ### brain-even
-
 Even or odd number?
-[![asciicast](https://asciinema.org/a/G1lTjQSsbVb9kGN3S0qXKWdPs.svg)](https://asciinema.org/a/G1lTjQSsbVb9kGN3S0qXKWdPs)
+[![asciicast](https://asciinema.org/a/9Z29zbhYsuNN9iHjT4tg8JmH1.svg)](https://asciinema.org/a/9Z29zbhYsuNN9iHjT4tg8JmH1)
 
 ### brain-calc
 Calculate it!
@@ -27,3 +26,7 @@ find the greatest divisor.
 ### brain-progression
 What number is missing in the progression?
 [![asciicast](https://asciinema.org/a/PZIyuahk3EnoPYQBC1mhZ9Xei.svg)](https://asciinema.org/a/PZIyuahk3EnoPYQBC1mhZ9Xei)
+
+### brain-prime
+Is a prime number?
+[![asciicast](https://asciinema.org/a/0EjXOj9hBLu4S4EpciPVwg8vp.svg)](https://asciinema.org/a/0EjXOj9hBLu4S4EpciPVwg8vp)
