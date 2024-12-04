@@ -16,20 +16,20 @@ make install
 
 ### brain-even
 Even or odd number?
-[![asciicast](https://asciinema.org/a/9Z29zbhYsuNN9iHjT4tg8JmH1.svg)](https://asciinema.org/a/9Z29zbhYsuNN9iHjT4tg8JmH1)
+[![asciicast](https://asciinema.org/a/LMJmV6u5X8zw6RPjRYtbcpUuu.svg)](https://asciinema.org/a/LMJmV6u5X8zw6RPjRYtbcpUuu)
 
 ### brain-calc
 Calculate it!
-[![asciicast](https://asciinema.org/a/wfGTz5x4IQw1ACc5JnHDhaG1c.svg)](https://asciinema.org/a/wfGTz5x4IQw1ACc5JnHDhaG1c)
+[![asciicast](https://asciinema.org/a/NJYqfgcDK8P7AO3kaAEqJGNZs.svg)](https://asciinema.org/a/NJYqfgcDK8P7AO3kaAEqJGNZs)
 
 ### brain-gcd
 find the greatest divisor.
-[![asciicast](https://asciinema.org/a/vzuooUK0X7dlO9V1ww4JYLuY4.svg)](https://asciinema.org/a/vzuooUK0X7dlO9V1ww4JYLuY4)
+[![asciicast](https://asciinema.org/a/f5RNKqjcwhEQs6IK3mEQgJNGZ.svg)](https://asciinema.org/a/f5RNKqjcwhEQs6IK3mEQgJNGZ)
 
 ### brain-progression
 What number is missing in the progression?
-[![asciicast](https://asciinema.org/a/PZIyuahk3EnoPYQBC1mhZ9Xei.svg)](https://asciinema.org/a/PZIyuahk3EnoPYQBC1mhZ9Xei)
+[![asciicast](https://asciinema.org/a/lox1Z40vpBroMl9eX2sOX1kVR.svg)](https://asciinema.org/a/lox1Z40vpBroMl9eX2sOX1kVR)
 
 ### brain-prime
 Is a prime number?
-[![asciicast](https://asciinema.org/a/0EjXOj9hBLu4S4EpciPVwg8vp.svg)](https://asciinema.org/a/0EjXOj9hBLu4S4EpciPVwg8vp)
+[![asciicast](https://asciinema.org/a/ozE3003Mg6SA1nXpHoceqDEMw.svg)](https://asciinema.org/a/ozE3003Mg6SA1nXpHoceqDEMw)
